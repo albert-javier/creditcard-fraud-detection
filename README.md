@@ -2,6 +2,17 @@
 
 URL : https://www.kaggle.com/competitions/nus-fintech-recruitment/
 
+Team Members:
+
+    Jeff Bryan Almazan      C0903244
+
+    Keith Jan Canete        C0902860
+
+    Dennis Ceblano          C0917683
+
+    Josephine Ferre         C0912147
+
+    Albert Javier           C0905375
 
 **Dataset Description**
 
@@ -10,7 +21,8 @@ The objective of this competition is to predict whether a transaction is fraudul
 
 Please take note that the test.csv file contains credit card transactions that occurred from Jan - Apr 2022. However, for the final submission of this competition, please only submit the predictions for transactions that occurred in Apr 2022 and sort them by transaction ID in ascending order (from transaction_id = 524230 at the top to transaction_id = 579320 at the bottom). Please refer to the sample_submission.csv file for your final submission.
 
-Files
+**Files**
+
 **train.csv** - the training set. Contains credit card transactions that occurred from Aug - Dec 2021
 
 **test.csv** - the test set for submission. Contains credit card transactions that occurred from Jan - Apr 2022. Only predictions for transactions that occurred in Apr 2022 need to be submitted. Please sort your submission by the transaction ID in ascending order
